@@ -51,3 +51,8 @@
   text-align: center;
   cursor: pointer;
 }
+
+#grid-item:hover {
+  background-color: #E8EAEB;
+  color: black;
+}
